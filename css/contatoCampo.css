@@ -5,6 +5,7 @@
   position: relative;
 }
 
+/* _____________________________________________Dinâmica interessante______________________________________ */
 .contatoCampo-label:before {
   content:'';
   vertical-align: middle;
@@ -27,9 +28,13 @@
 }
 
 .contatoCampo-checkbox {
-  display: none;
+  /* display: none !important; */
+  left: -9999px;
+  position: absolute;
+  opacity: 0;
 }
 
+/* _____________________________________________Dinâmica interessante______________________________________ */
 .contatoCampo-icone {
   position: absolute;
   left: -2em;
