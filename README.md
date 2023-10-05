@@ -16,7 +16,6 @@ Landing page designed focusing on accessibility for people with visual impairmen
 ## Languages and frameworks
 - HTML
 - CSS
-- JavaScript
 
 ### Deploy do projeto: https://yuricf1.github.io/Proj.Study---Accessibility-blind/
 
